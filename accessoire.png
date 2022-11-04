@@ -1,0 +1,754 @@
+<!DOCTYPE html>
+<html lang="en-US" class="js home page-template page-template-template-home page-template-template-home-php page page-id-3 woocommerce-no-js">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1, user-scalable=no">
+    <meta name="format-detection" content="telephone=no">
+    <meta id="token" name="token" content="700d581fc2">
+    <meta name="p:domain_verify" content="2080a07c9ecb5fd1f2177a7a32867327">
+    
+	<!-- This site is optimized with the Yoast SEO plugin v17.2 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Home - Psd2Newsletters</title>
+	<meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+	<link rel="canonical" href="https://www.psd2newsletters.com/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="Home - Psd2Newsletters" />
+	<meta property="og:url" content="https://www.psd2newsletters.com/" />
+	<meta property="og:site_name" content="Psd2Newsletters" />
+	<meta property="article:modified_time" content="2022-03-30T10:57:55+00:00" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://www.psd2newsletters.com/#website","url":"https://www.psd2newsletters.com/","name":"Psd2Newsletters","description":"Email Marketing Newsletter Templates","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.psd2newsletters.com/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"WebPage","@id":"https://www.psd2newsletters.com/#webpage","url":"https://www.psd2newsletters.com/","name":"Home - Psd2Newsletters","isPartOf":{"@id":"https://www.psd2newsletters.com/#website"},"datePublished":"2018-01-03T07:22:55+00:00","dateModified":"2022-03-30T10:57:55+00:00","breadcrumb":{"@id":"https://www.psd2newsletters.com/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://www.psd2newsletters.com/"]}]},{"@type":"BreadcrumbList","@id":"https://www.psd2newsletters.com/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home"}]}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='stylesheet' id='wp-block-library-css'  href='https://www.psd2newsletters.com/wp-includes/css/dist/block-library/style.min.css?ver=5.6.2' type='text/css' media='all' />
+<style id='woocommerce-inline-inline-css' type='text/css'>
+.woocommerce form .form-row .required { visibility: hidden; }
+</style>
+<link rel='stylesheet' id='app-css'  href='https://www.psd2newsletters.com/wp-content/themes/vg-twig/build/app.css?ver=3.3.5' type='text/css' media='all' />
+<link rel='stylesheet' id='test-css'  href='https://www.psd2newsletters.com/wp-content/themes/vg-twig/assets/css/test.css?ver=3.3.5' type='text/css' media='all' />
+<link rel="https://api.w.org/" href="https://www.psd2newsletters.com/wp-json/" /><link rel="alternate" type="application/json" href="https://www.psd2newsletters.com/wp-json/wp/v2/pages/3" /><link rel='shortlink' href='https://www.psd2newsletters.com/' />
+<style>.gform_validation_container{display:none!important;}</style><script>(window.gaDevIds=window.gaDevIds||[]).push('5CDcaG');</script>	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+	
+        <link rel="stylesheet" href="https://www.psd2newsletters.com/wp-content/themes/vg-twig/assets/css/responsive.css?ver=5" type="text/css" media="all">
+    <style>
+        .mailchimp-newsletter {
+            display: none !important;
+        }
+
+        .post-44720.product {
+            display: none !important;
+        }
+    </style>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-59354497-1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+
+        gtag('js', new Date());
+        gtag('config', 'UA-59354497-1');
+        gtag('set', {'user_id': 0});
+    </script>
+    <script>
+    !function(f,b,e,v,n,t,s) {if(f.fbq)return;n=f.fbq=function(){n.callMethod? n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window, document,'script', 'https://connect.facebook.net/en_US/fbevents.js');
+    fbq('init', '2115361491905532');
+    fbq('track', 'PageView');
+</script>
+<noscript><img alt="" height="1" width="1" style="display:none;" src="https://www.facebook.com/tr?id=2115361491905532&ev=PageView&noscript=1"/></noscript>
+</head>
+<body>
+<div id="app" style="opacity:0;">
+        <div id="banner"><p>Get our Lifetime Plan for only €49 &#8211; On the pricing page select <strong>&#8220;Lifetime Access&#8221;</strong> and get access to all our templates &#8211; <a href="/pricing/">Buy Now</a></p>
+</div>
+    <header id="header">
+    <div class="container">
+        <div class="header__logo">
+            <a href="https://www.psd2newsletters.com" title="Psd2Newsletters" rel="home">
+                <img src="https://www.psd2newsletters.com/wp-content/themes/vg-twig/assets/img/logo.svg" alt="Psd2Newsletters">
+            </a>
+        </div>
+        <div class="header__menu">
+            <div class="header__burger">
+                <span></span>
+                <span></span>
+                <span></span>
+            </div>
+            <ul>
+                                    <li class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-3 current_page_item menu-item-19658">
+                        <a href="https://www.psd2newsletters.com/">Home</a>
+                    </li>
+                                    <li class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-48">
+                        <a href="https://www.psd2newsletters.com/templates-gallery/">Templates</a>
+                    </li>
+                                    <li class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-69">
+                        <a href="https://www.psd2newsletters.com/modules-composer/">Modules Composer</a>
+                    </li>
+                                    <li class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-70">
+                        <a href="https://www.psd2newsletters.com/pricing/">Pricing</a>
+                    </li>
+                                    <li class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-79181">
+                        <a href="https://www.psd2newsletters.com/services/">Services</a>
+                    </li>
+                                    <li class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-19656">
+                        <a href="https://www.psd2newsletters.com/support/">Support</a>
+                    </li>
+                                    <li class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-21936">
+                        <a href="https://www.psd2newsletters.com/blog/">Blog</a>
+                    </li>
+                                    <li class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-47">
+                        <a href="https://www.psd2newsletters.com/account/">Members</a>
+                    </li>
+                            </ul>
+        </div>
+    </div>
+</header>
+    <div id="content">    <div class="home__content">
+        <div class="home__intro" style="background-image:url(https://www.psd2newsletters.com/wp-content/uploads/2018/02/back.jpg);">
+            <div class="home__intro__title" data-animation='{ "tween": { "duration": 0.5, "options": { "opacity": 0, "y": "30px" } }, "scene": { "options": { "triggerHook": 0.85, "reverse": true } } }'><div style="font-weight: 900;font-size: 18px;line-height: 42px;color: #F18020;letter-spacing: 1px;">MODULES COMPOSER</div><div style="font-weight: 800;font-size: 54px;line-height: 64px;">Click & Edit Email Builder</div></div>
+            <div class="home__intro__text" data-animation='{ "tween": { "duration": 0.5, "options": { "delay: 0.5, opacity": 0, "y": "30px" } }, "scene": { "options": { "triggerHook": 0.85, "reverse": true } } }'>Create beautiful responsive email templates easy &amp; fast compatible with <strong>Mailchimp, Campaign Monitor + 28 Email Service Providers</strong>. No coding or design skills required.</div>
+            <div class="home__intro__button" data-animation='{ "tween": { "duration": 0.5, "options": { "delay: 0.5, opacity": 0, "y": "30px" } }, "scene": { "options": { "triggerHook": 0.85, "reverse": true } } }'>
+                <a href="/templates-gallery/">START DESIGNING</a>
+            </div>
+        </div>
+        <div class="home__features">
+            <div class="features-component">
+    <div class="container">
+                <div class="features">
+                            <div class="features__feature">
+                    <div class="feature stagger">
+                        <div class="feature__icon"><img src="https://www.psd2newsletters.com/wp-content/uploads/2018/02/icon.svg" alt="Modules Composer"></div>
+                        <div class="feature__title">Modules Composer</div>
+                        <div class="feature__text">Design your Email Templates without writing a line of code. Modules Composer is one of the easiest email builders to use for email design production with 30 ESP export options including Mailchimp, Klaviyo & more!</div>
+                    </div>
+                </div>
+                            <div class="features__feature">
+                    <div class="feature stagger">
+                        <div class="feature__icon"><img src="https://www.psd2newsletters.com/wp-content/uploads/2019/05/drag-drop.svg" alt="Select & Edit Modules"></div>
+                        <div class="feature__title">Select & Edit Modules</div>
+                        <div class="feature__text">Choose a set of 100+ modules or a single template. Simply select & edit modules from a huge variety of categories like "Menu", "Header", "Services", "Products" etc and build a fantastic newsletter.<br />
+</div>
+                    </div>
+                </div>
+                            <div class="features__feature">
+                    <div class="feature stagger">
+                        <div class="feature__icon"><img src="https://www.psd2newsletters.com/wp-content/uploads/2021/01/400.png" alt="Infinity - All in One"></div>
+                        <div class="feature__title">Infinity - All in One</div>
+                        <div class="feature__text">Our "All in One" template includes all modules from our templates! You can create unlimited designs based on the 400+ modules you have available. Keep in mind that every new template will be included on Infinity. </div>
+                    </div>
+                </div>
+                            <div class="features__feature">
+                    <div class="feature stagger">
+                        <div class="feature__icon"><img src="https://www.psd2newsletters.com/wp-content/uploads/2018/02/eoa.svg" alt="All modules tested"></div>
+                        <div class="feature__title">All modules tested</div>
+                        <div class="feature__text">All modules are tested through Email on Acid in order to be sure that you will not face any display issues. Also we test our products through desktops, laptops, smartphones and tablets in every available platform.</div>
+                    </div>
+                </div>
+                            <div class="features__feature">
+                    <div class="feature stagger">
+                        <div class="feature__icon"><img src="https://www.psd2newsletters.com/wp-content/uploads/2018/02/icons.svg" alt="Maximum compatibility"></div>
+                        <div class="feature__title">Maximum compatibility</div>
+                        <div class="feature__text">Our templates are compatible with all major email clients including Outlook. And YES our email templates support background images even on Outlook (Windows desktop version) and outlook.com</div>
+                    </div>
+                </div>
+                            <div class="features__feature">
+                    <div class="feature stagger">
+                        <div class="feature__icon"><img src="https://www.psd2newsletters.com/wp-content/uploads/2018/02/247.svg" alt="Outstanding Support"></div>
+                        <div class="feature__title">Outstanding Support</div>
+                        <div class="feature__text">We are always at your disposal for any kind of problem you may face. Keep in mind that no matter what it is, it will be solved as soon as possible and we will offer you the best advice.</div>
+                    </div>
+                </div>
+                    </div>
+    </div>
+</div>
+        </div>
+        <div class="home__composer">
+            <div class="composer-component">
+    <div class="container">
+        <div class="composer">
+            <div class="composer__left" data-animation='{ "tween": { "duration": 0.5, "options": { "opacity": 0, "x": "-30px" } }, "scene": { "options": { "triggerHook": 0.75 } } }'>
+                <div class="composer__title"><div style="font-size:42px;font-weight:800px;">Click & Edit Email Builder</div></div>
+                <div class="composer__text">Design your Email Templates without writing a line of code. <strong>Modules Composer</strong> is one of the easiest email builders to use for email design production. <br />
+<br />
+Create unlimited designs based on the 400+ modules you have available on <strong>Infinity</strong>. Keep in mind that every new template will be included on Infinity. </div>
+                <div class="composer__button">
+                    <a href="https://www.psd2newsletters.com/?user_template=infinity" target="_blank">Check Infinity</a>
+                </div>
+            </div>
+            <div class="composer__right" data-animation='{ "tween": { "duration": 0.5, "options": { "opacity": 0, "x": "30px" } }, "scene": { "options": { "triggerHook": 0.75 } } }'>
+                <div class="composer__image">
+                    <img src="https://www.psd2newsletters.com/wp-content/uploads/2018/02/video_image.png">
+                                    </div>
+            </div>
+        </div>
+    </div>
+</div>
+        </div>
+        <div class="home__latest">
+            <div class="container">
+                <div class="home__latest__header">
+                    <div class="home__latest__title">Latest Templates</div>
+                    <img src="https://www.psd2newsletters.com/wp-content/themes/vg-twig/assets/img/arrow--down.svg" alt="">
+                </div>
+                <div class="home__latest__content">
+                    <ul class="products">
+                        <li class="post-132795 product type-product status-publish has-post-thumbnail product_cat-single-templates first instock downloadable virtual sold-individually taxable purchasable product-type-simple">
+	<a href="https://www.psd2newsletters.com/templates-gallery/stock/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><h2 class="woocommerce-loop-product__title">Stock</h2><img width="2360" height="1200" src="https://assetscomposer.s3.amazonaws.com/wp-content/uploads/2022/10/04103403/Stock-Theme-Preview.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /></a></li>
+<li class="post-130801 product type-product status-publish has-post-thumbnail product_cat-single-templates instock downloadable virtual sold-individually taxable purchasable product-type-simple">
+	<a href="https://www.psd2newsletters.com/templates-gallery/evepra/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><h2 class="woocommerce-loop-product__title">Evepra</h2><img width="2360" height="1200" src="https://assetscomposer.s3.amazonaws.com/wp-content/uploads/2022/09/19120809/Everpa-Theme-Preview.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /></a></li>
+<li class="post-115965 product type-product status-publish has-post-thumbnail product_cat-single-templates last instock downloadable virtual sold-individually taxable purchasable product-type-simple">
+	<a href="https://www.psd2newsletters.com/templates-gallery/boost/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><h2 class="woocommerce-loop-product__title">Boost</h2><img width="2360" height="1200" src="https://assetscomposer.s3.amazonaws.com/wp-content/uploads/2022/05/20130436/Boost-Theme-Preview.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /></a></li>
+<li class="post-113958 product type-product status-publish has-post-thumbnail product_cat-multipurpose-sets first instock downloadable virtual sold-individually taxable purchasable product-type-simple">
+	<a href="https://www.psd2newsletters.com/templates-gallery/black/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><h2 class="woocommerce-loop-product__title">Black</h2><img width="2360" height="1200" src="https://assetscomposer.s3.amazonaws.com/wp-content/uploads/2022/05/06134354/Black-Theme-Preview.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /></a></li>
+<li class="post-105773 product type-product status-publish has-post-thumbnail product_cat-multipurpose-sets instock downloadable virtual sold-individually taxable purchasable product-type-simple">
+	<a href="https://www.psd2newsletters.com/templates-gallery/freya/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><h2 class="woocommerce-loop-product__title">Freya</h2><img width="2360" height="1200" src="https://assetscomposer.s3.amazonaws.com/wp-content/uploads/2022/03/18153346/Freya-Theme-Preview.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /></a></li>
+<li class="post-98740 product type-product status-publish has-post-thumbnail product_cat-single-templates last instock downloadable virtual sold-individually taxable purchasable product-type-simple">
+	<a href="https://www.psd2newsletters.com/templates-gallery/homestore/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><h2 class="woocommerce-loop-product__title">Homestore</h2><img width="2360" height="1200" src="https://assetscomposer.s3.amazonaws.com/wp-content/uploads/2022/02/04143811/Homestore-Theme-Preview.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /></a></li>
+<li class="post-93323 product type-product status-publish has-post-thumbnail product_cat-multipurpose-sets first instock downloadable virtual sold-individually taxable purchasable product-type-simple">
+	<a href="https://www.psd2newsletters.com/templates-gallery/blue/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><h2 class="woocommerce-loop-product__title">Blue</h2><img width="2360" height="1200" src="https://assetscomposer.s3.amazonaws.com/wp-content/uploads/2021/12/28105633/Blue-Theme-Preview.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /></a></li>
+<li class="post-91295 product type-product status-publish has-post-thumbnail product_cat-single-templates instock downloadable virtual sold-individually taxable purchasable product-type-simple">
+	<a href="https://www.psd2newsletters.com/templates-gallery/homely/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><h2 class="woocommerce-loop-product__title">Homely</h2><img width="2360" height="1200" src="https://assetscomposer.s3.amazonaws.com/wp-content/uploads/2021/12/09102754/Homely-Theme-Preview.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /></a></li>
+<li class="post-90404 product type-product status-publish has-post-thumbnail product_cat-single-templates last instock downloadable virtual sold-individually taxable purchasable product-type-simple">
+	<a href="https://www.psd2newsletters.com/templates-gallery/attika/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><h2 class="woocommerce-loop-product__title">Attika</h2><img width="2360" height="1200" src="https://assetscomposer.s3.amazonaws.com/wp-content/uploads/2021/12/02135343/Attika-Theme-Preview.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /></a></li>
+<li class="post-89586 product type-product status-publish has-post-thumbnail product_cat-multipurpose-sets first instock downloadable virtual sold-individually taxable purchasable product-type-simple">
+	<a href="https://www.psd2newsletters.com/templates-gallery/noel/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><h2 class="woocommerce-loop-product__title">Noel</h2><img width="2360" height="1200" src="https://assetscomposer.s3.amazonaws.com/wp-content/uploads/2021/11/03115547/Noel-Theme-Preview.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /></a></li>
+<li class="post-87960 product type-product status-publish has-post-thumbnail product_cat-multipurpose-sets instock downloadable virtual sold-individually taxable purchasable product-type-simple">
+	<a href="https://www.psd2newsletters.com/templates-gallery/nikita/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><h2 class="woocommerce-loop-product__title">Nikita</h2><img width="2360" height="1200" src="https://assetscomposer.s3.amazonaws.com/wp-content/uploads/2021/11/17110828/Nikita-Theme-Preview.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /></a></li>
+<li class="post-79092 product type-product status-publish has-post-thumbnail product_cat-single-templates last instock downloadable virtual sold-individually taxable purchasable product-type-simple">
+	<a href="https://www.psd2newsletters.com/templates-gallery/olivia/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><h2 class="woocommerce-loop-product__title">Olivia</h2><img width="2360" height="1200" src="https://assetscomposer.s3.amazonaws.com/wp-content/uploads/2021/09/20183620/Olivia-Theme-Preview.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /></a></li>
+<li class="post-77056 product type-product status-publish has-post-thumbnail product_cat-single-templates first instock downloadable virtual sold-individually taxable purchasable product-type-simple">
+	<a href="https://www.psd2newsletters.com/templates-gallery/furnistore/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><h2 class="woocommerce-loop-product__title">Furnistore</h2><img width="2360" height="1200" src="https://assetscomposer.s3.amazonaws.com/wp-content/uploads/2021/09/06152912/Furnistore-Theme-Preview.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /></a></li>
+<li class="post-76318 product type-product status-publish has-post-thumbnail product_cat-single-templates instock downloadable virtual sold-individually taxable purchasable product-type-simple">
+	<a href="https://www.psd2newsletters.com/templates-gallery/folio/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><h2 class="woocommerce-loop-product__title">Folio</h2><img width="2360" height="1200" src="https://assetscomposer.s3.amazonaws.com/wp-content/uploads/2021/08/03142502/Folio-Theme-Preview.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /></a></li>
+<li class="post-75100 product type-product status-publish has-post-thumbnail product_cat-single-templates last instock downloadable virtual sold-individually taxable purchasable product-type-simple">
+	<a href="https://www.psd2newsletters.com/templates-gallery/madeline/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><h2 class="woocommerce-loop-product__title">Madeline</h2><img width="2360" height="1200" src="https://assetscomposer.s3.amazonaws.com/wp-content/uploads/2021/08/19145904/Madeline-Theme-Preview.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /></a></li>
+<li class="post-72650 product type-product status-publish has-post-thumbnail product_cat-single-templates first instock downloadable virtual sold-individually taxable purchasable product-type-simple">
+	<a href="https://www.psd2newsletters.com/templates-gallery/tours/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><h2 class="woocommerce-loop-product__title">Tours</h2><img width="2360" height="1200" src="https://assetscomposer.s3.amazonaws.com/wp-content/uploads/2021/07/23112934/Tours-Builder-Preview.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /></a></li>
+<li class="post-71872 product type-product status-publish has-post-thumbnail product_cat-single-templates instock downloadable virtual sold-individually taxable purchasable product-type-simple">
+	<a href="https://www.psd2newsletters.com/templates-gallery/josefine/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><h2 class="woocommerce-loop-product__title">Josefine</h2><img width="2360" height="1200" src="https://assetscomposer.s3.amazonaws.com/wp-content/uploads/2021/07/15121604/Josefine-Theme-Preview.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /></a></li>
+<li class="post-70896 product type-product status-publish has-post-thumbnail product_cat-multipurpose-sets last instock downloadable virtual sold-individually taxable purchasable product-type-simple">
+	<a href="https://www.psd2newsletters.com/templates-gallery/colibri/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><h2 class="woocommerce-loop-product__title">Colibri</h2><img width="2360" height="1200" src="https://assetscomposer.s3.amazonaws.com/wp-content/uploads/2021/07/07123925/Colibri-Theme-Preview.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /></a></li>
+<li class="post-66832 product type-product status-publish has-post-thumbnail product_cat-single-templates first instock downloadable virtual sold-individually taxable purchasable product-type-simple">
+	<a href="https://www.psd2newsletters.com/templates-gallery/meetup/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><h2 class="woocommerce-loop-product__title">MeetUp</h2><img width="2360" height="1200" src="https://www.psd2newsletters.com/wp-content/uploads/2021/05/Theme-Preview.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /></a></li>
+<li class="post-66515 product type-product status-publish has-post-thumbnail product_cat-single-templates instock downloadable virtual sold-individually taxable purchasable product-type-simple">
+	<a href="https://www.psd2newsletters.com/templates-gallery/silver/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><h2 class="woocommerce-loop-product__title">Silver</h2><img width="2360" height="1200" src="https://www.psd2newsletters.com/wp-content/uploads/2021/05/Silver-Theme-Preview.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /></a></li>
+<li class="post-65707 product type-product status-publish has-post-thumbnail product_cat-single-templates last instock downloadable virtual sold-individually taxable purchasable product-type-simple">
+	<a href="https://www.psd2newsletters.com/templates-gallery/xplore/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><h2 class="woocommerce-loop-product__title">XPLORE</h2><img width="2360" height="1200" src="https://www.psd2newsletters.com/wp-content/uploads/2021/05/Xplore-Theme-Preview.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /></a></li>
+<li class="post-63753 product type-product status-publish has-post-thumbnail product_cat-single-templates first instock downloadable virtual sold-individually taxable purchasable product-type-simple">
+	<a href="https://www.psd2newsletters.com/templates-gallery/interior/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><h2 class="woocommerce-loop-product__title">Interior</h2><img width="2360" height="1200" src="https://www.psd2newsletters.com/wp-content/uploads/2021/04/Interior-Theme-Preview.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /></a></li>
+<li class="post-63182 product type-product status-publish has-post-thumbnail product_cat-single-templates instock downloadable virtual sold-individually taxable purchasable product-type-simple">
+	<a href="https://www.psd2newsletters.com/templates-gallery/coral/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><h2 class="woocommerce-loop-product__title">Coral</h2><img width="2360" height="1200" src="https://www.psd2newsletters.com/wp-content/uploads/2021/04/Coral-Theme-Preview.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /></a></li>
+<li class="post-62591 product type-product status-publish has-post-thumbnail product_cat-single-templates last instock downloadable virtual sold-individually taxable purchasable product-type-simple">
+	<a href="https://www.psd2newsletters.com/templates-gallery/felicia/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><h2 class="woocommerce-loop-product__title">Felicia</h2><img width="2360" height="1200" src="https://www.psd2newsletters.com/wp-content/uploads/2021/04/Felicia-Theme-Preview.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /></a></li>
+<li class="post-61522 product type-product status-publish has-post-thumbnail product_cat-single-templates first instock downloadable virtual sold-individually taxable purchasable product-type-simple">
+	<a href="https://www.psd2newsletters.com/templates-gallery/leon/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><h2 class="woocommerce-loop-product__title">Leon</h2><img width="2360" height="1200" src="https://www.psd2newsletters.com/wp-content/uploads/2021/03/Leon-Theme-Preview.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /></a></li>
+<li class="post-59694 product type-product status-publish has-post-thumbnail product_cat-single-templates instock downloadable virtual sold-individually taxable purchasable product-type-simple">
+	<a href="https://www.psd2newsletters.com/templates-gallery/digitup/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><h2 class="woocommerce-loop-product__title">DigitUP</h2><img width="2360" height="1200" src="https://www.psd2newsletters.com/wp-content/uploads/2021/03/Digitup-Theme-Preview.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /></a></li>
+<li class="post-57585 product type-product status-publish has-post-thumbnail product_cat-single-templates last instock downloadable virtual sold-individually taxable purchasable product-type-simple">
+	<a href="https://www.psd2newsletters.com/templates-gallery/eventmax/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><h2 class="woocommerce-loop-product__title">EventMax</h2><img width="2360" height="1200" src="https://www.psd2newsletters.com/wp-content/uploads/2021/02/EventMax-Theme-Preview.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /></a></li>
+<li class="post-55613 product type-product status-publish has-post-thumbnail product_cat-single-templates first instock downloadable virtual sold-individually taxable purchasable product-type-simple">
+	<a href="https://www.psd2newsletters.com/templates-gallery/emma/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><h2 class="woocommerce-loop-product__title">Emma</h2><img width="2360" height="1200" src="https://www.psd2newsletters.com/wp-content/uploads/2021/01/Emma-Theme-Preview.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /></a></li>
+<li class="post-54895 product type-product status-publish has-post-thumbnail product_cat-multipurpose-sets instock downloadable virtual sold-individually taxable purchasable product-type-simple">
+	<a href="https://www.psd2newsletters.com/templates-gallery/simpli/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><h2 class="woocommerce-loop-product__title">Simpli</h2><img width="2360" height="1200" src="https://www.psd2newsletters.com/wp-content/uploads/2021/01/Simpli-Theme-Preview.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /></a></li>
+<li class="post-52858 product type-product status-publish has-post-thumbnail product_cat-single-templates last instock downloadable virtual sold-individually taxable purchasable product-type-simple">
+	<a href="https://www.psd2newsletters.com/templates-gallery/santa/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><h2 class="woocommerce-loop-product__title">Santa</h2><img width="2360" height="1200" src="https://www.psd2newsletters.com/wp-content/uploads/2020/12/Santa-Theme-Preview.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /></a></li>
+<li class="post-51277 product type-product status-publish has-post-thumbnail product_cat-multipurpose-sets first instock downloadable virtual sold-individually taxable purchasable product-type-simple">
+	<a href="https://www.psd2newsletters.com/templates-gallery/naomi/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><h2 class="woocommerce-loop-product__title">Naomi</h2><img width="2360" height="1200" src="https://www.psd2newsletters.com/wp-content/uploads/2020/11/Naomi-Theme-Preview.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /></a></li>
+<li class="post-49689 product type-product status-publish has-post-thumbnail product_cat-single-templates instock downloadable virtual sold-individually taxable purchasable product-type-simple">
+	<a href="https://www.psd2newsletters.com/templates-gallery/evelyn/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><h2 class="woocommerce-loop-product__title">Evelyn</h2><img width="2360" height="1200" src="https://www.psd2newsletters.com/wp-content/uploads/2020/10/Evelyn-Theme-Preview.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /></a></li>
+<li class="post-48928 product type-product status-publish has-post-thumbnail product_cat-multipurpose-sets last instock downloadable virtual sold-individually taxable purchasable product-type-simple">
+	<a href="https://www.psd2newsletters.com/templates-gallery/lotus/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><h2 class="woocommerce-loop-product__title">Lotus</h2><img width="2360" height="1200" src="https://www.psd2newsletters.com/wp-content/uploads/2020/10/Lotus-Theme-Preview.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /></a></li>
+<li class="post-49277 product type-product status-publish has-post-thumbnail product_cat-multipurpose-sets first instock downloadable virtual sold-individually taxable purchasable product-type-simple">
+	<a href="https://www.psd2newsletters.com/templates-gallery/purple/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><h2 class="woocommerce-loop-product__title">Purple</h2><img width="2360" height="1200" src="https://www.psd2newsletters.com/wp-content/uploads/2020/10/Purple-Theme-Preview.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /></a></li>
+<li class="post-47771 product type-product status-publish has-post-thumbnail product_cat-single-templates instock downloadable virtual sold-individually taxable purchasable product-type-simple">
+	<a href="https://www.psd2newsletters.com/templates-gallery/volka/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><h2 class="woocommerce-loop-product__title">Volka</h2><img width="2360" height="1200" src="https://www.psd2newsletters.com/wp-content/uploads/2020/09/Volka-Theme-Preview.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /></a></li>
+<li class="post-45777 product type-product status-publish has-post-thumbnail product_cat-single-templates last instock downloadable virtual sold-individually taxable purchasable product-type-simple">
+	<a href="https://www.psd2newsletters.com/templates-gallery/anabel/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><h2 class="woocommerce-loop-product__title">Anabel</h2><img width="2360" height="1200" src="https://www.psd2newsletters.com/wp-content/uploads/2020/07/Anabel-Theme-Preview.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /></a></li>
+<li class="post-44371 product type-product status-publish has-post-thumbnail product_cat-single-templates first instock downloadable virtual sold-individually taxable purchasable product-type-simple">
+	<a href="https://www.psd2newsletters.com/templates-gallery/mybag/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><h2 class="woocommerce-loop-product__title">MyBag</h2><img width="2360" height="1200" src="https://www.psd2newsletters.com/wp-content/uploads/2020/06/MyBag-Theme-Preview.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /></a></li>
+<li class="post-44437 product type-product status-publish has-post-thumbnail product_cat-single-templates instock downloadable virtual sold-individually taxable purchasable product-type-simple">
+	<a href="https://www.psd2newsletters.com/templates-gallery/infinity/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><h2 class="woocommerce-loop-product__title">Infinity</h2><img width="1180" height="600" src="https://www.psd2newsletters.com/wp-content/uploads/2020/06/Infinity.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /></a></li>
+<li class="post-39570 product type-product status-publish has-post-thumbnail product_cat-single-templates last instock downloadable virtual sold-individually taxable purchasable product-type-simple">
+	<a href="https://www.psd2newsletters.com/templates-gallery/cinderella/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><h2 class="woocommerce-loop-product__title">Cinderella</h2><img width="2360" height="1200" src="https://www.psd2newsletters.com/wp-content/uploads/2020/01/Cinderella-Theme-Preview.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /></a></li>
+<li class="post-38634 product type-product status-publish has-post-thumbnail product_cat-single-templates first instock downloadable virtual sold-individually taxable purchasable product-type-simple">
+	<a href="https://www.psd2newsletters.com/templates-gallery/jupiter/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><h2 class="woocommerce-loop-product__title">Jupiter</h2><img width="2360" height="1200" src="https://www.psd2newsletters.com/wp-content/uploads/2019/11/Jupiter-Theme-Preview.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /></a></li>
+<li class="post-38441 product type-product status-publish has-post-thumbnail product_cat-single-templates instock downloadable virtual sold-individually taxable purchasable product-type-simple">
+	<a href="https://www.psd2newsletters.com/templates-gallery/mercury/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><h2 class="woocommerce-loop-product__title">Mercury</h2><img width="2360" height="1200" src="https://www.psd2newsletters.com/wp-content/uploads/2021/01/Mercury-Theme-Preview.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /></a></li>
+<li class="post-38043 product type-product status-publish has-post-thumbnail product_cat-single-templates last instock downloadable virtual sold-individually taxable purchasable product-type-simple">
+	<a href="https://www.psd2newsletters.com/templates-gallery/kodiaq/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><h2 class="woocommerce-loop-product__title">Kodiaq</h2><img width="2360" height="1200" src="https://www.psd2newsletters.com/wp-content/uploads/2019/10/Kodiaq-Theme-Preview-1.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /></a></li>
+<li class="post-37516 product type-product status-publish has-post-thumbnail product_cat-single-templates first instock downloadable virtual sold-individually taxable purchasable product-type-simple">
+	<a href="https://www.psd2newsletters.com/templates-gallery/rubik/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><h2 class="woocommerce-loop-product__title">Rubik</h2><img width="2360" height="1200" src="https://www.psd2newsletters.com/wp-content/uploads/2019/09/RubikMail-Theme-Preview.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /></a></li>
+<li class="post-35335 product type-product status-publish has-post-thumbnail product_cat-single-templates instock downloadable virtual sold-individually taxable purchasable product-type-simple">
+	<a href="https://www.psd2newsletters.com/templates-gallery/tralever/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><h2 class="woocommerce-loop-product__title">Tralever</h2><img width="2360" height="1200" src="https://www.psd2newsletters.com/wp-content/uploads/2019/08/Tralever-Theme-Preview.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /></a></li>
+<li class="post-34452 product type-product status-publish has-post-thumbnail product_cat-single-templates last instock downloadable virtual sold-individually taxable purchasable product-type-simple">
+	<a href="https://www.psd2newsletters.com/templates-gallery/eventpro/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><h2 class="woocommerce-loop-product__title">EventPro</h2><img width="2360" height="1200" src="https://www.psd2newsletters.com/wp-content/uploads/2019/07/EventPro-Theme-Preview.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /></a></li>
+<li class="post-22016 product type-product status-publish has-post-thumbnail product_cat-multipurpose-sets first instock downloadable virtual sold-individually taxable purchasable product-type-simple">
+	<a href="https://www.psd2newsletters.com/templates-gallery/oxygen/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><h2 class="woocommerce-loop-product__title">Oxygen</h2><img width="2360" height="1200" src="https://www.psd2newsletters.com/wp-content/uploads/2019/03/Oxygen-Theme-Preview.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /></a></li>
+<li class="post-19288 product type-product status-publish has-post-thumbnail product_cat-multipurpose-sets instock downloadable virtual sold-individually taxable purchasable product-type-simple">
+	<a href="https://www.psd2newsletters.com/templates-gallery/milia/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><h2 class="woocommerce-loop-product__title">Milia</h2><img width="2360" height="1200" src="https://www.psd2newsletters.com/wp-content/uploads/2018/05/Milia-Theme-Preview.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /></a></li>
+<li class="post-19284 product type-product status-publish has-post-thumbnail product_cat-single-templates last instock downloadable virtual sold-individually taxable purchasable product-type-simple">
+	<a href="https://www.psd2newsletters.com/templates-gallery/mars/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><h2 class="woocommerce-loop-product__title">Mars</h2><img width="2360" height="1200" src="https://www.psd2newsletters.com/wp-content/uploads/2018/02/Mars-Theme-Preview.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /></a></li>
+<li class="post-19223 product type-product status-publish has-post-thumbnail product_cat-single-templates first instock downloadable virtual sold-individually taxable purchasable product-type-simple">
+	<a href="https://www.psd2newsletters.com/templates-gallery/fashionistas/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><h2 class="woocommerce-loop-product__title">Fashionistas</h2><img width="2360" height="1200" src="https://www.psd2newsletters.com/wp-content/uploads/2017/06/Fashionistas-Theme-Preview.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /></a></li>
+<li class="post-39777 product type-product status-publish has-post-thumbnail product_cat-single-templates instock downloadable virtual sold-individually taxable purchasable product-type-simple">
+	<a href="https://www.psd2newsletters.com/templates-gallery/xmas/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><h2 class="woocommerce-loop-product__title">XMAS</h2><img width="2360" height="1200" src="https://assetscomposer.s3.amazonaws.com/wp-content/uploads/2017/05/23131901/Xmas-Theme-Preview.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /></a></li>
+                    </ul>
+                </div>
+                <div class="home__latest__footer">
+                    <a href="https://www.psd2newsletters.com/templates-gallery/">BROWSE ALL TEMPLATES</a>
+                </div>
+            </div>
+        </div>
+        <div class="home__testimonials">
+            <div class="testimonials-component" style="background-image:url(https://www.psd2newsletters.com/wp-content/uploads/2018/02/clients_back.jpg);">
+    <div class="container">
+        <div class="testimonials__header">
+            <div class="testimonials__header__title">What our clients say</div>
+            <img src="https://www.psd2newsletters.com/wp-content/themes/vg-twig/assets/img/arrow--down--white.svg" alt="">
+        </div>
+        <div class="testimonials">
+                            <div class="testimonial">
+                    <div class="testimonial__content">
+                        <div><p>I loved the many module options that you have. Either for product or service. Clean and user friendly design.</p>
+</div>
+                        <img src="https://www.psd2newsletters.com/wp-content/themes/vg-twig/assets/img/arrow--testimonial.svg" alt="Psd2Newsletters" class="testimonial_arrow">
+                    </div>
+                    <div class="testimonial__author">- Rabbit77</div>
+                </div>
+                            <div class="testimonial">
+                    <div class="testimonial__content">
+                        <div><p class="t-body h-my1">Really great template, easy to use, extremely good support, probably the best I have had after buying a product from Envato. Keep up the good work.</p>
+</div>
+                        <img src="https://www.psd2newsletters.com/wp-content/themes/vg-twig/assets/img/arrow--testimonial.svg" alt="Psd2Newsletters" class="testimonial_arrow">
+                    </div>
+                    <div class="testimonial__author">- jagz112</div>
+                </div>
+                            <div class="testimonial">
+                    <div class="testimonial__content">
+                        <div><div class="review-header__rating">
+<p class="t-body h-m0">Whether you&#8217;re an experienced pro, or someone just starting out &#8211; I&#8217;d highly recommend using Minilam or any of Psd2Newsletters&#8217; templates. 100% more than your money&#8217;s worth.</p>
+</div>
+</div>
+                        <img src="https://www.psd2newsletters.com/wp-content/themes/vg-twig/assets/img/arrow--testimonial.svg" alt="Psd2Newsletters" class="testimonial_arrow">
+                    </div>
+                    <div class="testimonial__author">- JT_graphics</div>
+                </div>
+                    </div>
+    </div>
+</div>
+        </div>
+        <div class="home__access">
+            <div class="access-component">
+    <div class="container">
+        <div class="access">
+            <div class="access__title" data-animation='{ "tween": { "duration": 0.5, "options": { "opacity": 0, "y": "30px" } }, "scene": { "options": { "triggerHook": 0.85, "reverse": true } } }'>Get full access to our templates for €49!</div>
+            <div class="access__text" data-animation='{ "tween": { "duration": 0.5, "options": { "opacity": 0, "y": "30px" } }, "scene": { "options": { "triggerHook": 0.85, "reverse": true } } }'>Honestly is there any other email template marketplace out there who can offer as much as we offer for only €49?</div>
+            <div class="access__button" data-animation='{ "tween": { "duration": 0.5, "options": { "opacity": 0, "y": "30px" } }, "scene": { "options": { "triggerHook": 0.85, "reverse": true } } }'>
+                <a href="https://www.psd2newsletters.com//pricing/">PRICING & SIGN UP</a>
+            </div>
+        </div>
+    </div>
+</div>
+        </div>
+        <div class="home__compatibility">
+            <div class="compatibility">
+    <div class="container">
+        <div class="compatibility__title" data-animation='{ "tween": { "duration": 0.5, "options": { "opacity": 0, "y": "30px" } }, "scene": { "options": { "triggerHook": 0.85, "reverse": true } } }'>Our templates compatibility</div>
+        <div class="compatibility__text" data-animation='{ "tween": { "duration": 0.5, "options": { "opacity": 0, "y": "30px" } }, "scene": { "options": { "triggerHook": 0.85, "reverse": true } } }'><p>Our email templates are compatible with Mailchimp, Campaign Monitor + 28 Email Service Providers. Simply build your email template on our email builder and upload it on your preferred Email Service Provider.</p>
+</div>
+        <div class="compatibility__logos">
+                            <img src="https://www.psd2newsletters.com/wp-content/uploads/2021/01/mailchimp.png" alt="">
+                            <img src="https://www.psd2newsletters.com/wp-content/uploads/2021/01/campaing-monitor.png" alt="">
+                            <img src="https://www.psd2newsletters.com/wp-content/uploads/2021/01/klaviyo.png" alt="">
+                            <img src="https://www.psd2newsletters.com/wp-content/uploads/2021/01/hubspot.png" alt="">
+                            <img src="https://www.psd2newsletters.com/wp-content/uploads/2021/01/moosend.png" alt="">
+                            <img src="https://www.psd2newsletters.com/wp-content/uploads/2021/01/sendgrid.png" alt="">
+                            <img src="https://www.psd2newsletters.com/wp-content/uploads/2021/01/sendinblue.png" alt="">
+                            <img src="https://www.psd2newsletters.com/wp-content/uploads/2021/01/activecampaign.png" alt="">
+                            <img src="https://www.psd2newsletters.com/wp-content/uploads/2021/01/mailerlite.png" alt="">
+                            <img src="https://www.psd2newsletters.com/wp-content/uploads/2021/01/saleforce.png" alt="">
+                            <img src="https://www.psd2newsletters.com/wp-content/uploads/2021/01/sendfox.png" alt="">
+                            <img src="https://www.psd2newsletters.com/wp-content/uploads/2021/01/constant-contact.png" alt="">
+                            <img src="https://www.psd2newsletters.com/wp-content/uploads/2021/01/aweber.png" alt="">
+                            <img src="https://www.psd2newsletters.com/wp-content/uploads/2021/01/benchmark.png" alt="">
+                            <img src="https://www.psd2newsletters.com/wp-content/uploads/2021/01/convertkit.png" alt="">
+                            <img src="https://www.psd2newsletters.com/wp-content/uploads/2021/01/emailoctopus.png" alt="">
+                            <img src="https://www.psd2newsletters.com/wp-content/uploads/2021/01/freshmail.png" alt="">
+                            <img src="https://www.psd2newsletters.com/wp-content/uploads/2021/01/campainer.png" alt="">
+                            <img src="https://www.psd2newsletters.com/wp-content/uploads/2021/01/dotdigital.png" alt="">
+                            <img src="https://www.psd2newsletters.com/wp-content/uploads/2021/01/emma.png" alt="">
+                            <img src="https://www.psd2newsletters.com/wp-content/uploads/2021/01/icontact.png" alt="">
+                            <img src="https://www.psd2newsletters.com/wp-content/uploads/2021/01/interspire.png" alt="">
+                            <img src="https://www.psd2newsletters.com/wp-content/uploads/2021/01/mailgun.png" alt="">
+                            <img src="https://www.psd2newsletters.com/wp-content/uploads/2021/01/mailijet.png" alt="">
+                            <img src="https://www.psd2newsletters.com/wp-content/uploads/2021/01/marketo.png" alt="">
+                            <img src="https://www.psd2newsletters.com/wp-content/uploads/2021/01/sendpulse.png" alt="">
+                            <img src="https://www.psd2newsletters.com/wp-content/uploads/2021/01/sendy.png" alt="">
+                            <img src="https://www.psd2newsletters.com/wp-content/uploads/2021/01/verticalresponse.png" alt="">
+                            <img src="https://www.psd2newsletters.com/wp-content/uploads/2021/01/madmimi.png" alt="">
+                            <img src="https://www.psd2newsletters.com/wp-content/uploads/2021/01/phplist.png" alt="">
+                            <img src="https://www.psd2newsletters.com/wp-content/uploads/2021/01/generic.png" alt="">
+                    </div>
+    </div>
+</div>
+        </div>
+    </div>
+    </div>
+    <footer id="footer">
+    <div class="container">
+        <div class="footer__menu">
+            <ul>
+                                    <li class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-72">
+                        <a href="https://www.psd2newsletters.com/about-us/">About us</a>
+                    </li>
+                                    <li class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy menu-item-74">
+                        <a href="https://www.psd2newsletters.com/privacy-policy/">Privacy Policy</a>
+                    </li>
+                                    <li class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-75">
+                        <a href="https://www.psd2newsletters.com/terms-of-service/">Terms of Service</a>
+                    </li>
+                                    <li class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-76">
+                        <a href="https://www.psd2newsletters.com/contact/">Contact</a>
+                    </li>
+                            </ul>
+        </div>
+        <div class="footer__social">
+            <ul>
+                <li>
+                    <a href="https://www.facebook.com/psd2newsletters/" rel="noopener" target="_blank">
+                        <img src="https://www.psd2newsletters.com/wp-content/themes/vg-twig/assets/img/social--facebook.svg" alt="Facebook">
+                    </a>
+                </li>
+                <li>
+                    <a href="https://twitter.com/psd2newsletters" rel="noopener" target="_blank">
+                        <img src="https://www.psd2newsletters.com/wp-content/themes/vg-twig/assets/img/social--twitter.svg" alt="Twitter">
+                    </a>
+                </li>
+                <li>
+                    <a href="https://www.instagram.com/psd2newsletters/" rel="noopener" target="_blank">
+                        <img src="https://www.psd2newsletters.com/wp-content/themes/vg-twig/assets/img/social--instagram.svg" alt="Instagram">
+                    </a>
+                </li>
+            </ul>
+        </div>
+        <div class="footer__copy">Copyright &copy; 2022 Psd2Newsletters &reg;</div>
+    </div>
+</footer>
+</div>
+<!--Enhanced Ecommerce Google Analytics Plugin for Woocommerce by Tatvic Plugin Version:4.2.1--><script id="mcjs">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/3b4cc4b1ef2074dc41b1a9597/ba8ba9e4e78501c06e074a26b.js");</script>    <div class="gdpr">
+        <style>
+            .gdpr {
+                display: none;
+                position: fixed;
+                z-index: 99999;
+                left: 0;
+                right: 0;
+                bottom: 0;
+                color: #000;
+                background: #ffffff;
+                border-top: 1px solid #ccc;
+                text-align: center;
+                padding: 20px;
+                box-sizing: border-box;
+                overflow: hidden;
+            }
+
+            .gdpr__text {
+                display: inline-block;
+                font-size: 13px;
+                line-height: 17px;
+            }
+
+            .gdpr__text a {
+                color: #000;
+                text-decoration: underline;
+            }
+
+            .gdpr__text a:hover {
+                color: #000;
+            }
+
+            .gdpr__actions {
+                display: inline-block;
+                margin: 0 0 0 10px;
+            }
+
+            .gdpr__action {
+                background: #f3821e;
+                box-sizing: border-box;
+                color: #fff;
+                cursor: pointer;
+                font-size: 13px;
+                line-height: 17px;
+                padding: 8px 10px;
+                text-align: center;
+                width: 125px;
+            }
+
+            .gdpr__action:hover {
+                text-decoration: underline;
+            }
+
+            @media (max-width: 960px) {
+                .gdpr {
+                    padding: 20px 10px;
+                }
+
+                .gdpr__text {
+                    margin: 0 0 20px 0;
+                }
+
+                .gdpr__actions {
+                    margin: 0;
+                }
+            }
+        </style>
+        <script>
+            document.addEventListener('DOMContentLoaded', function () {
+                var gdpr = document.querySelector('.gdpr');
+                var buttonConsent = document.querySelector('.gdpr__action--consent');
+                if (document.cookie.indexOf('vg_gdpr') === -1) {
+                    gdpr.style.display = 'block';
+                }
+                buttonConsent.addEventListener('click', function () {
+                    gdpr.style.display = 'none';
+                    document.cookie = "vg_gdpr=1;path=/";
+                });
+            });
+        </script>
+        <div class="gdpr__text">By continuing on this site you accept the use of cookies on your device as described in <a href="https://www.psd2newsletters.com/privacy-policy/">Privacy Policy</a>.</div>
+        <div class="gdpr__actions">
+            <div class="gdpr__action gdpr__action--consent">Accept</div>
+        </div>
+    </div>
+        <script>
+        if (typeof fbq === 'function') {
+            var buttons1 = document.querySelectorAll('.single_add_to_cart_button');
+            var buttons2 = document.querySelectorAll('.js-event-add-to-cart');
+            if (buttons1) {
+                for (var i = 0; i < buttons1.length; i++) {
+                    buttons1[i].addEventListener('click', function () {
+                        fbq('track', 'AddToCart');
+                    });
+                }
+            }
+            if (buttons2) {
+                for (var i = 0; i < buttons2.length; i++) {
+                    buttons2[i].addEventListener('click', function () {
+                        fbq('track', 'AddToCart');
+                    });
+                }
+            }
+        }
+    </script>
+    	<script type="text/javascript">
+		var c = document.body.className;
+		c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
+		document.body.className = c;
+	</script>
+	<script type='text/javascript' src='https://www.psd2newsletters.com/wp-includes/js/jquery/jquery.min.js?ver=3.5.1' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://www.psd2newsletters.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<script type='text/javascript' src='https://www.psd2newsletters.com/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.70' id='jquery-blockui-js'></script>
+<script type='text/javascript' src='https://www.psd2newsletters.com/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4' id='js-cookie-js'></script>
+<script type='text/javascript' id='woocommerce-js-extra'>
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.psd2newsletters.com/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=3.5.1' id='woocommerce-js'></script>
+<script type='text/javascript' id='mailchimp-woocommerce-js-extra'>
+/* <![CDATA[ */
+var mailchimp_public_data = {"site_url":"https:\/\/www.psd2newsletters.com","ajax_url":"https:\/\/www.psd2newsletters.com\/wp-admin\/admin-ajax.php","language":"en","allowed_to_set_cookies":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.psd2newsletters.com/wp-content/plugins/mailchimp-for-woocommerce/public/js/mailchimp-woocommerce-public.min.js?ver=2.5.3' id='mailchimp-woocommerce-js'></script>
+<script type='text/javascript' id='app-js-extra'>
+/* <![CDATA[ */
+var app = {"_nonce":"700d581fc2","endpoint":"\/wp-admin\/admin-ajax.php","siteUrl":"https:\/\/www.psd2newsletters.com","user":"0"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.psd2newsletters.com/wp-content/themes/vg-twig/build/app.js?ver=3.3.5' id='app-js'></script>
+<script type='text/javascript' src='https://www.psd2newsletters.com/wp-content/themes/vg-twig/assets/js/test.js?ver=3.3.5' id='test-js'></script>
+<!-- WooCommerce JavaScript -->
+<script type="text/javascript">
+jQuery(function($) { 
+tvc_lc="EUR";
+
+homepage_json_ATC_link={"\/?add-to-cart=132795":{"ATC-link":"https:\/\/www.psd2newsletters.com\/templates-gallery\/stock\/"},"\/?add-to-cart=130801":{"ATC-link":"https:\/\/www.psd2newsletters.com\/templates-gallery\/evepra\/"},"\/?add-to-cart=115965":{"ATC-link":"https:\/\/www.psd2newsletters.com\/templates-gallery\/boost\/"},"\/?add-to-cart=113958":{"ATC-link":"https:\/\/www.psd2newsletters.com\/templates-gallery\/black\/"},"\/?add-to-cart=105773":{"ATC-link":"https:\/\/www.psd2newsletters.com\/templates-gallery\/freya\/"},"\/?add-to-cart=98740":{"ATC-link":"https:\/\/www.psd2newsletters.com\/templates-gallery\/homestore\/"},"\/?add-to-cart=93323":{"ATC-link":"https:\/\/www.psd2newsletters.com\/templates-gallery\/blue\/"},"\/?add-to-cart=91295":{"ATC-link":"https:\/\/www.psd2newsletters.com\/templates-gallery\/homely\/"},"\/?add-to-cart=90404":{"ATC-link":"https:\/\/www.psd2newsletters.com\/templates-gallery\/attika\/"},"\/?add-to-cart=89586":{"ATC-link":"https:\/\/www.psd2newsletters.com\/templates-gallery\/noel\/"},"\/?add-to-cart=87960":{"ATC-link":"https:\/\/www.psd2newsletters.com\/templates-gallery\/nikita\/"},"\/?add-to-cart=79092":{"ATC-link":"https:\/\/www.psd2newsletters.com\/templates-gallery\/olivia\/"},"\/?add-to-cart=77056":{"ATC-link":"https:\/\/www.psd2newsletters.com\/templates-gallery\/furnistore\/"},"\/?add-to-cart=76318":{"ATC-link":"https:\/\/www.psd2newsletters.com\/templates-gallery\/folio\/"},"\/?add-to-cart=75100":{"ATC-link":"https:\/\/www.psd2newsletters.com\/templates-gallery\/madeline\/"},"\/?add-to-cart=72650":{"ATC-link":"https:\/\/www.psd2newsletters.com\/templates-gallery\/tours\/"},"\/?add-to-cart=71872":{"ATC-link":"https:\/\/www.psd2newsletters.com\/templates-gallery\/josefine\/"},"\/?add-to-cart=70896":{"ATC-link":"https:\/\/www.psd2newsletters.com\/templates-gallery\/colibri\/"},"\/?add-to-cart=66832":{"ATC-link":"https:\/\/www.psd2newsletters.com\/templates-gallery\/meetup\/"},"\/?add-to-cart=66515":{"ATC-link":"https:\/\/www.psd2newsletters.com\/templates-gallery\/silver\/"},"\/?add-to-cart=65707":{"ATC-link":"https:\/\/www.psd2newsletters.com\/templates-gallery\/xplore\/"},"\/?add-to-cart=63753":{"ATC-link":"https:\/\/www.psd2newsletters.com\/templates-gallery\/interior\/"},"\/?add-to-cart=63182":{"ATC-link":"https:\/\/www.psd2newsletters.com\/templates-gallery\/coral\/"},"\/?add-to-cart=62591":{"ATC-link":"https:\/\/www.psd2newsletters.com\/templates-gallery\/felicia\/"},"\/?add-to-cart=61522":{"ATC-link":"https:\/\/www.psd2newsletters.com\/templates-gallery\/leon\/"},"\/?add-to-cart=59694":{"ATC-link":"https:\/\/www.psd2newsletters.com\/templates-gallery\/digitup\/"},"\/?add-to-cart=57585":{"ATC-link":"https:\/\/www.psd2newsletters.com\/templates-gallery\/eventmax\/"},"\/?add-to-cart=55613":{"ATC-link":"https:\/\/www.psd2newsletters.com\/templates-gallery\/emma\/"},"\/?add-to-cart=54895":{"ATC-link":"https:\/\/www.psd2newsletters.com\/templates-gallery\/simpli\/"},"\/?add-to-cart=52858":{"ATC-link":"https:\/\/www.psd2newsletters.com\/templates-gallery\/santa\/"},"\/?add-to-cart=51277":{"ATC-link":"https:\/\/www.psd2newsletters.com\/templates-gallery\/naomi\/"},"\/?add-to-cart=49689":{"ATC-link":"https:\/\/www.psd2newsletters.com\/templates-gallery\/evelyn\/"},"\/?add-to-cart=48928":{"ATC-link":"https:\/\/www.psd2newsletters.com\/templates-gallery\/lotus\/"},"\/?add-to-cart=49277":{"ATC-link":"https:\/\/www.psd2newsletters.com\/templates-gallery\/purple\/"},"\/?add-to-cart=47771":{"ATC-link":"https:\/\/www.psd2newsletters.com\/templates-gallery\/volka\/"},"\/?add-to-cart=45777":{"ATC-link":"https:\/\/www.psd2newsletters.com\/templates-gallery\/anabel\/"},"\/?add-to-cart=44371":{"ATC-link":"https:\/\/www.psd2newsletters.com\/templates-gallery\/mybag\/"},"\/?add-to-cart=44437":{"ATC-link":"https:\/\/www.psd2newsletters.com\/templates-gallery\/infinity\/"},"\/?add-to-cart=39570":{"ATC-link":"https:\/\/www.psd2newsletters.com\/templates-gallery\/cinderella\/"},"\/?add-to-cart=38634":{"ATC-link":"https:\/\/www.psd2newsletters.com\/templates-gallery\/jupiter\/"},"\/?add-to-cart=38441":{"ATC-link":"https:\/\/www.psd2newsletters.com\/templates-gallery\/mercury\/"},"\/?add-to-cart=38043":{"ATC-link":"https:\/\/www.psd2newsletters.com\/templates-gallery\/kodiaq\/"},"\/?add-to-cart=37516":{"ATC-link":"https:\/\/www.psd2newsletters.com\/templates-gallery\/rubik\/"},"\/?add-to-cart=35335":{"ATC-link":"https:\/\/www.psd2newsletters.com\/templates-gallery\/tralever\/"},"\/?add-to-cart=34452":{"ATC-link":"https:\/\/www.psd2newsletters.com\/templates-gallery\/eventpro\/"},"\/?add-to-cart=22016":{"ATC-link":"https:\/\/www.psd2newsletters.com\/templates-gallery\/oxygen\/"},"\/?add-to-cart=19288":{"ATC-link":"https:\/\/www.psd2newsletters.com\/templates-gallery\/milia\/"},"\/?add-to-cart=19284":{"ATC-link":"https:\/\/www.psd2newsletters.com\/templates-gallery\/mars\/"},"\/?add-to-cart=19223":{"ATC-link":"https:\/\/www.psd2newsletters.com\/templates-gallery\/fashionistas\/"},"\/?add-to-cart=39777":{"ATC-link":"https:\/\/www.psd2newsletters.com\/templates-gallery\/xmas\/"}};
+
+tvc_fp=[];
+
+tvc_rcp={"https:\/\/www.psd2newsletters.com\/templates-gallery\/stock\/":{"tvc_id":"132795","tvc_i":"SKU-0057","tvc_n":"Stock","tvc_p":"16","tvc_c":"Single Templates"},"https:\/\/www.psd2newsletters.com\/templates-gallery\/evepra\/":{"tvc_id":"130801","tvc_i":"SKU-0056","tvc_n":"Evepra","tvc_p":"16","tvc_c":"Single Templates"},"https:\/\/www.psd2newsletters.com\/templates-gallery\/boost\/":{"tvc_id":"115965","tvc_i":"SKU-0055","tvc_n":"Boost","tvc_p":"16","tvc_c":"Single Templates"},"https:\/\/www.psd2newsletters.com\/templates-gallery\/black\/":{"tvc_id":"113958","tvc_i":"SKU-0054","tvc_n":"Black","tvc_p":"16","tvc_c":"Multipurpose Sets"},"https:\/\/www.psd2newsletters.com\/templates-gallery\/freya\/":{"tvc_id":"105773","tvc_i":"SKU-0053","tvc_n":"Freya","tvc_p":"16","tvc_c":"Multipurpose Sets"},"https:\/\/www.psd2newsletters.com\/templates-gallery\/homestore\/":{"tvc_id":"98740","tvc_i":"SKU-0052","tvc_n":"Homestore","tvc_p":"16","tvc_c":"Single Templates"},"https:\/\/www.psd2newsletters.com\/templates-gallery\/blue\/":{"tvc_id":"93323","tvc_i":"SKU-0051","tvc_n":"Blue","tvc_p":"16","tvc_c":"Multipurpose Sets"},"https:\/\/www.psd2newsletters.com\/templates-gallery\/homely\/":{"tvc_id":"91295","tvc_i":"SKU-0050","tvc_n":"Homely","tvc_p":"16","tvc_c":"Single Templates"},"https:\/\/www.psd2newsletters.com\/templates-gallery\/attika\/":{"tvc_id":"90404","tvc_i":"SKU-0049","tvc_n":"Attika","tvc_p":"16","tvc_c":"Single Templates"},"https:\/\/www.psd2newsletters.com\/templates-gallery\/noel\/":{"tvc_id":"89586","tvc_i":"SKU-0048","tvc_n":"Noel","tvc_p":"16","tvc_c":"Multipurpose Sets"},"https:\/\/www.psd2newsletters.com\/templates-gallery\/nikita\/":{"tvc_id":"87960","tvc_i":"SKU-0047","tvc_n":"Nikita","tvc_p":"16","tvc_c":"Multipurpose Sets"},"https:\/\/www.psd2newsletters.com\/templates-gallery\/olivia\/":{"tvc_id":"79092","tvc_i":"SKU-0046","tvc_n":"Olivia","tvc_p":"16","tvc_c":"Single Templates"},"https:\/\/www.psd2newsletters.com\/templates-gallery\/furnistore\/":{"tvc_id":"77056","tvc_i":"SKU-0045","tvc_n":"Furnistore","tvc_p":"16","tvc_c":"Single Templates"},"https:\/\/www.psd2newsletters.com\/templates-gallery\/folio\/":{"tvc_id":"76318","tvc_i":"SKU-0044","tvc_n":"Folio","tvc_p":"16","tvc_c":"Single Templates"},"https:\/\/www.psd2newsletters.com\/templates-gallery\/madeline\/":{"tvc_id":"75100","tvc_i":"SKU-0043","tvc_n":"Madeline","tvc_p":"16","tvc_c":"Single Templates"},"https:\/\/www.psd2newsletters.com\/templates-gallery\/tours\/":{"tvc_id":"72650","tvc_i":"SKU-0042","tvc_n":"Tours","tvc_p":"16","tvc_c":"Single Templates"},"https:\/\/www.psd2newsletters.com\/templates-gallery\/josefine\/":{"tvc_id":"71872","tvc_i":"SKU-0041","tvc_n":"Josefine","tvc_p":"16","tvc_c":"Single Templates"},"https:\/\/www.psd2newsletters.com\/templates-gallery\/colibri\/":{"tvc_id":"70896","tvc_i":"SKU-0040","tvc_n":"Colibri","tvc_p":"16","tvc_c":"Multipurpose Sets"},"https:\/\/www.psd2newsletters.com\/templates-gallery\/meetup\/":{"tvc_id":"66832","tvc_i":"SKU-0039","tvc_n":"MeetUp","tvc_p":"16","tvc_c":"Single Templates"},"https:\/\/www.psd2newsletters.com\/templates-gallery\/silver\/":{"tvc_id":"66515","tvc_i":"SKU-0038","tvc_n":"Silver","tvc_p":"16","tvc_c":"Single Templates"},"https:\/\/www.psd2newsletters.com\/templates-gallery\/xplore\/":{"tvc_id":"65707","tvc_i":"SKU-0037","tvc_n":"XPLORE","tvc_p":"16","tvc_c":"Single Templates"},"https:\/\/www.psd2newsletters.com\/templates-gallery\/interior\/":{"tvc_id":"63753","tvc_i":"SKU-0036","tvc_n":"Interior","tvc_p":"16","tvc_c":"Single Templates"},"https:\/\/www.psd2newsletters.com\/templates-gallery\/coral\/":{"tvc_id":"63182","tvc_i":"SKU-0035","tvc_n":"Coral","tvc_p":"16","tvc_c":"Single Templates"},"https:\/\/www.psd2newsletters.com\/templates-gallery\/felicia\/":{"tvc_id":"62591","tvc_i":"SKU-0034","tvc_n":"Felicia","tvc_p":"16","tvc_c":"Single Templates"},"https:\/\/www.psd2newsletters.com\/templates-gallery\/leon\/":{"tvc_id":"61522","tvc_i":"SKU-0033","tvc_n":"Leon","tvc_p":"16","tvc_c":"Single Templates"},"https:\/\/www.psd2newsletters.com\/templates-gallery\/digitup\/":{"tvc_id":"59694","tvc_i":"SKU-0032","tvc_n":"DigitUP","tvc_p":"16","tvc_c":"Single Templates"},"https:\/\/www.psd2newsletters.com\/templates-gallery\/eventmax\/":{"tvc_id":"57585","tvc_i":"SKU-0031","tvc_n":"EventMax","tvc_p":"16","tvc_c":"Single Templates"},"https:\/\/www.psd2newsletters.com\/templates-gallery\/emma\/":{"tvc_id":"55613","tvc_i":"SKU-0030","tvc_n":"Emma","tvc_p":"16","tvc_c":"Single Templates"},"https:\/\/www.psd2newsletters.com\/templates-gallery\/simpli\/":{"tvc_id":"54895","tvc_i":"SKU-0029","tvc_n":"Simpli","tvc_p":"16","tvc_c":"Multipurpose Sets"},"https:\/\/www.psd2newsletters.com\/templates-gallery\/santa\/":{"tvc_id":"52858","tvc_i":"SKU-0028","tvc_n":"Santa","tvc_p":"16","tvc_c":"Single Templates"},"https:\/\/www.psd2newsletters.com\/templates-gallery\/naomi\/":{"tvc_id":"51277","tvc_i":"SKU-0027","tvc_n":"Naomi","tvc_p":"16","tvc_c":"Multipurpose Sets"},"https:\/\/www.psd2newsletters.com\/templates-gallery\/evelyn\/":{"tvc_id":"49689","tvc_i":"SKU-0026","tvc_n":"Evelyn","tvc_p":"16","tvc_c":"Single Templates"},"https:\/\/www.psd2newsletters.com\/templates-gallery\/lotus\/":{"tvc_id":"48928","tvc_i":"SKU-0024","tvc_n":"Lotus","tvc_p":"16","tvc_c":"Multipurpose Sets"},"https:\/\/www.psd2newsletters.com\/templates-gallery\/purple\/":{"tvc_id":"49277","tvc_i":"SKU-0025","tvc_n":"Purple","tvc_p":"16","tvc_c":"Multipurpose Sets"},"https:\/\/www.psd2newsletters.com\/templates-gallery\/volka\/":{"tvc_id":"47771","tvc_i":"SKU-0023","tvc_n":"Volka","tvc_p":"16","tvc_c":"Single Templates"},"https:\/\/www.psd2newsletters.com\/templates-gallery\/anabel\/":{"tvc_id":"45777","tvc_i":"SKU-0022","tvc_n":"Anabel","tvc_p":"16","tvc_c":"Single Templates"},"https:\/\/www.psd2newsletters.com\/templates-gallery\/mybag\/":{"tvc_id":"44371","tvc_i":"SKU-0020","tvc_n":"MyBag","tvc_p":"16","tvc_c":"Single Templates"},"https:\/\/www.psd2newsletters.com\/templates-gallery\/infinity\/":{"tvc_id":"44437","tvc_i":"SKU-0021","tvc_n":"Infinity","tvc_p":"199","tvc_c":"Single Templates"},"https:\/\/www.psd2newsletters.com\/templates-gallery\/cinderella\/":{"tvc_id":"39570","tvc_i":"SKU-0016","tvc_n":"Cinderella","tvc_p":"16","tvc_c":"Single Templates"},"https:\/\/www.psd2newsletters.com\/templates-gallery\/jupiter\/":{"tvc_id":"38634","tvc_i":"SKU-0015","tvc_n":"Jupiter","tvc_p":"16","tvc_c":"Single Templates"},"https:\/\/www.psd2newsletters.com\/templates-gallery\/mercury\/":{"tvc_id":"38441","tvc_i":"SKU-0014","tvc_n":"Mercury","tvc_p":"16","tvc_c":"Single Templates"},"https:\/\/www.psd2newsletters.com\/templates-gallery\/kodiaq\/":{"tvc_id":"38043","tvc_i":"SKU-0013","tvc_n":"Kodiaq","tvc_p":"16","tvc_c":"Single Templates"},"https:\/\/www.psd2newsletters.com\/templates-gallery\/rubik\/":{"tvc_id":"37516","tvc_i":"SKU-0012","tvc_n":"Rubik","tvc_p":"16","tvc_c":"Single Templates"},"https:\/\/www.psd2newsletters.com\/templates-gallery\/tralever\/":{"tvc_id":"35335","tvc_i":"SKU-0011","tvc_n":"Tralever","tvc_p":"16.00","tvc_c":"Single Templates"},"https:\/\/www.psd2newsletters.com\/templates-gallery\/eventpro\/":{"tvc_id":"34452","tvc_i":"SKU-0010","tvc_n":"EventPro","tvc_p":"16.00","tvc_c":"Single Templates"},"https:\/\/www.psd2newsletters.com\/templates-gallery\/oxygen\/":{"tvc_id":"22016","tvc_i":"SKU-10654","tvc_n":"Oxygen","tvc_p":"16.00","tvc_c":"Multipurpose Sets"},"https:\/\/www.psd2newsletters.com\/templates-gallery\/milia\/":{"tvc_id":"19288","tvc_i":"SKU-6886","tvc_n":"Milia","tvc_p":"16.00","tvc_c":"Multipurpose Sets"},"https:\/\/www.psd2newsletters.com\/templates-gallery\/mars\/":{"tvc_id":"19284","tvc_i":"SKU-5546","tvc_n":"Mars","tvc_p":"16.00","tvc_c":"Single Templates"},"https:\/\/www.psd2newsletters.com\/templates-gallery\/fashionistas\/":{"tvc_id":"19223","tvc_i":"SKU-2107","tvc_n":"Fashionistas","tvc_p":"16.00","tvc_c":"Single Templates"},"https:\/\/www.psd2newsletters.com\/templates-gallery\/xmas\/":{"tvc_id":"39777","tvc_i":"SKU-0017","tvc_n":"XMAS","tvc_p":"16","tvc_c":"Single Templates"}};
+
+tvc_rdp=[];
+
+prodpage_json_ATC_link=[];
+
+tvc_pgc=[];
+
+catpage_json_ATC_link=[];
+
+
+                var items = [];
+                //set local currencies
+                gtag("set", {"currency": tvc_lc});
+                function t_products_impre_clicks(t_json_name,t_action){
+                       t_send_threshold=0;
+                       t_prod_pos=0;
+                        t_json_length=Object.keys(t_json_name).length;
+                            
+                        for(var t_item in t_json_name) {
+                    t_send_threshold++;
+                    t_prod_pos++;
+                    items.push({
+                        "id": t_json_name[t_item].tvc_i,
+                        "name": t_json_name[t_item].tvc_n,
+                        "category": t_json_name[t_item].tvc_c,
+                        "price": t_json_name[t_item].tvc_p,
+                    });    
+                            
+                        if(t_json_length > 6 ){
+
+                            if((t_send_threshold%6)==0){
+                                t_json_length=t_json_length-6;
+                                    gtag("event", "view_item_list", { "event_category":"Enhanced-Ecommerce",
+                                         "event_label":"product_impression_"+t_action, "items":items,"non_interaction": true});
+                                         items = [];
+                                        }
+                                        if(adsTringId != "" && ( ads_ert == 1 || ads_edrt == 1)){
+                                            gtag("event","view_item_list", {
+                                                "send_to":remarketing_snippet_id,
+                                                "value": t_json_name[t_item].tvc_p,
+                                                "items": [
+                                                  {
+                                                    "id": t_json_name[t_item].tvc_id, 
+                                                    "google_business_vertical": "retail"
+                                                  }
+                                               ]
+                                            });
+                                        }
+                            }else{
+                
+                               t_json_length--;
+                               if(t_json_length==0){
+                                       gtag("event", "view_item_list", { "event_category":"Enhanced-Ecommerce",
+                                            "event_label":"product_impression_"+t_action, "items":items,"non_interaction": true});
+                                            items = [];
+                                        }
+                                       if(adsTringId != "" && ( ads_ert == 1 || ads_edrt == 1)){
+                                            gtag("event","view_item_list", {
+                                                "send_to":remarketing_snippet_id,
+                                                "value": t_json_name[t_item].tvc_p,
+                                                "items": [
+                                                  {
+                                                    "id": t_json_name[t_item].tvc_id, 
+                                                    "google_business_vertical": "retail"
+                                                  }
+                                               ]
+                                            });
+                                        }
+                                }   
+                            }
+            }
+                    
+            //function for comparing urls in json object
+            function prod_exists_in_JSON(t_url,t_json_name,t_action){
+                                        if(t_json_name.hasOwnProperty(t_url)){
+                                            t_call_fired=true;
+                                            gtag("event", "select_content", {
+                                                "event_category":"Enhanced-Ecommerce",
+                                                "event_label":"product_click_"+t_action,
+                                                "content_type": "product",
+                                                "items": [
+                                                {
+                                                    "id":t_json_name[t_url].tvc_i,
+                                                    "name": t_json_name[t_url].tvc_n,
+                                                     "category":t_json_name[t_url].tvc_c,
+                                                     "price": t_json_name[t_url].tvc_p,
+                                                }
+                                                ],
+                                                "non_interaction": true
+                                            });                    
+                                       }else{
+                                            t_call_fired=false;
+                                        }
+                                        return t_call_fired;
+                                }
+                    function prod_ATC_link_exists(t_url,t_ATC_json_name,t_prod_data_json,t_qty){
+                        t_prod_url_key=t_ATC_json_name[t_url]["ATC-link"];
+                        
+                            if(t_prod_data_json.hasOwnProperty(t_prod_url_key)){
+                                    t_call_fired=true;
+                                // Enhanced E-commerce Add to cart clicks
+                                    gtag("event", "add_to_cart", {
+                                        "event_category":"Enhanced-Ecommerce",
+                                        "event_label":"add_to_cart_click",
+                                        "non_interaction": true,
+                                        "items": [{
+                                            "id" : t_prod_data_json[t_prod_url_key].tvc_i,
+                                            "name":t_prod_data_json[t_prod_url_key].tvc_n,
+                                            "category" : t_prod_data_json[t_prod_url_key].tvc_c,
+                                            "price": t_prod_data_json[t_prod_url_key].tvc_p,
+                                            "quantity" :t_qty
+                                        }]
+                                    });
+                                    if(adsTringId != "" && ( ads_ert == 1 || ads_edrt == 1)){
+                                        gtag("event","add_to_cart", {
+                                            "send_to":remarketing_snippet_id,
+                                            "value": t_prod_data_json[t_prod_url_key].tvc_p,
+                                            "items": [
+                                              {
+                                                "id": t_prod_data_json[t_prod_url_key].tvc_id, 
+                                                "google_business_vertical": "retail"
+                                              }
+                                            ]
+                                        });
+                                    }
+                                 
+                            }else{
+                                       t_call_fired=false;
+                            }    
+                             return t_call_fired;
+                     
+                    }
+                    
+                    
+                if(tvc_fp.length !== 0){
+                    t_products_impre_clicks(tvc_fp,"fp");       
+                }
+                if(tvc_rcp.length !== 0){
+                    t_products_impre_clicks(tvc_rcp,"rp");    
+                }
+                jQuery("a:not([href*=add-to-cart],.product_type_variable, .product_type_grouped)").on("click",function(){
+            t_url=jQuery(this).attr("href");
+                        //home page call for click
+                        t_call_fired=prod_exists_in_JSON(t_url,tvc_fp,"fp");
+                        if(!t_call_fired){
+                            prod_exists_in_JSON(t_url,tvc_rcp,"rp");
+                        }    
+                });
+                //ATC click
+                jQuery("a[href*=add-to-cart]").on("click",function(){
+            t_url=jQuery(this).attr("href");
+                        t_qty=$(this).parent().find("input[name=quantity]").val();
+                             //default quantity 1 if quantity box is not there             
+                            if(t_qty=="" || t_qty===undefined){
+                                t_qty="1";
+                            }
+                        t_call_fired=prod_ATC_link_exists(t_url,homepage_json_ATC_link,tvc_fp,t_qty);
+                        if(!t_call_fired){
+                            prod_ATC_link_exists(t_url,homepage_json_ATC_link,tvc_rcp,t_qty);
+                        }
+                    });   
+             
+                
+
+tvc_smd={"tvc_wcv":"3.5.1","tvc_wpv":"5.6.2","tvc_eev":"4.2.1","tvc_cnf":{"t_ee":"on","t_df":false,"t_gUser":false,"t_UAen":null,"t_thr":"6","t_IPA":false,"t_OptOut":false,"t_PrivacyPolicy":true},"tvc_sub_data":[]};
+ });
+</script>
+
+</body>
+</html>
